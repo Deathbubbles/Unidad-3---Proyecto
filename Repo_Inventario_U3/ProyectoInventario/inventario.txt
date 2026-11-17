@@ -1,0 +1,4 @@
+ZEL-001|Zelda: TOTK|129999|28
+MAR-002|Marvel Rivals|9950|4
+POK-003|POKER: El Juego|24999|4
+ABC-123|Halo Infinite|89950|20
